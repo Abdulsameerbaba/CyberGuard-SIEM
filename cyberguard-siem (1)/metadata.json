@@ -1,0 +1,5 @@
+{
+  "name": "  Cyberguard SIEM",
+  "description": "A comprehensive cybercrime detection application that functions as a Security Information and Event Management (SIEM) system, with OSINT research tools and threat intelligence capabilities.",
+  "requestFramePermissions": []
+}
